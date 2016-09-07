@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="qq_entry_time">12:00</string>
+    <string name="text2">XXX:xxx</string>
+    <string name="text1">JAVA交流群</string>
+    <string name="qq_icon">QQ头像</string>
+</resources>

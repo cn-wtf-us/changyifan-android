@@ -24,8 +24,8 @@ public class MainActivity extends AppCompatActivity {
         user_name = (EditText) findViewById(R.id.username_edit);
         user_password= (EditText) findViewById(R.id.password_edit);
 
-       /* Button b = (Button) findViewById(R.id.login);
-        b.setOnClickListener(new View.OnClickListener() {
+        Button b = (Button) findViewById(R.id.login);
+        /*b.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(MainActivity.this, LoginActivity.class);

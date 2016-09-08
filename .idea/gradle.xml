@@ -9,13 +9,17 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/jump" />
             <option value="$PROJECT_DIR$/myapp" />
+            <option value="$PROJECT_DIR$/qq" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/jump" />
             <option value="$PROJECT_DIR$/myapp" />
+            <option value="$PROJECT_DIR$/qq" />
           </set>
         </option>
       </GradleProjectSettings>

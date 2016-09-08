@@ -1,1 +1,1 @@
-include  ':myapp'
+include ':myapp', ':qq', ':jump'
